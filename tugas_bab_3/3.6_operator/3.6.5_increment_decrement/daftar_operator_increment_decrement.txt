@@ -1,0 +1,11 @@
+++$x
+Pre Increment
+
+$++
+Post increment
+
+--$x
+Pre decrement
+
+$x--
+Post decrement

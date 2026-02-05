@@ -1,0 +1,5 @@
++       :       penjumlahan
+-       :       pengurangan
+*       :       pengalian
+/       :       pembagian
+%       :       sisa bagi

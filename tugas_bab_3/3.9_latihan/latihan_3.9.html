@@ -1,0 +1,67 @@
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tiket Online</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <legend>
+      <h3><b>TIKET ONLINE PADANG - MALAYSIA</b></h3>
+
+      <div>
+        <form action="">
+          <table>
+            <tr>
+              <td>Nama</td>
+              <td><input type="text" name="nama" id="nama" /></td>
+            </tr>
+            <tr>
+              <td>Pilih Kode Pesawat</td>
+              <td>
+                <select name="kode_pesawat" id="kode_pesawat">
+                  <option value="GRD">GRD</option>
+                  <option value="MPT">MPT</option>
+                  <option value="BTV">Batavia</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td>Pilih Kelas</td>
+              <td>
+                <input
+                  type="radio"
+                  name="kelas"
+                  id="eksekutif"
+                  value="eksekutif"
+                />
+                <label for="eksekutif">Eksekutif</label><br />
+
+                <input type="radio" name="kelas" id="bisnis" value="bisnis" />
+                <label for="bisnis">Bisnins</label><br />
+
+                <input type="radio" name="kelas" id="ekonomi" value="ekonomi" />
+                <label for="ekonomi">Ekonomi</label><br />
+              </td>
+            </tr>
+            <tr>
+              <td>Jumlah Tiket</td>
+              <td>
+                <select name="jml_tiket" id="jml_tiket">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                </select>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </legend>
+  </body>
+</html>

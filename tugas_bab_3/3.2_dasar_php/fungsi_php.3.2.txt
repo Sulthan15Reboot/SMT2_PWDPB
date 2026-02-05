@@ -1,0 +1,3 @@
+PHP adalah situs web yang bisa menyesuaikan tampilan konten tergantung situasi. Website dinamis juga bisa
+menyimpan data ke dalam database, membuat halaman yang berubah-ubah
+sesuai input dari user, memproses form.

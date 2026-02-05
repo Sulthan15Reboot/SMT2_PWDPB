@@ -1,0 +1,23 @@
+AND
+$x && $y
+Logika AND Menghasilkan TRUE jika $x dan $y bernilai TRUE
+
+AND
+$x and $y
+Logika AND Menghasilkan TRUE jika $x dan $y bernilai TRUE
+
+Or
+$x or $y
+Logika or Menghasilkan TRUE jika salah satu $x atau $y bernilai TRUE
+
+| |
+$x || $y
+Logika or Menghasilkan TRUE jika salah satu $x atau $y bernilai TRUE
+
+xor
+$x xor $y
+Logika or Menghasilkan TRUE jika salah satu $x atau $y bernilai TRUE tetapi bukan keduanya
+
+!
+!$x
+Menghasilkan TRUE jika $x = False

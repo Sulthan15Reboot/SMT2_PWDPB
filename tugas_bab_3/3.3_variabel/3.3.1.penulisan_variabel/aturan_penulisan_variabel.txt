@@ -1,0 +1,7 @@
+diawali tanda ($)
+nama variabel harus dimulai dari huruf (a-z) atau underscore ( _ )
+tidak dapat dimulai dari angka
+hanya berisi alfanumerik dan garis bawah (a-z,0-9,dan _)
+case sensitive ('A' tidak sama dengan 'a')
+tidak perlu deklarasi di awal (di java ada [int 'variabel'])
+variabel dalam php tidak bertipe (tidak int, str dan sebagainya)

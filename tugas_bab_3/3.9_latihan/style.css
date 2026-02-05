@@ -1,0 +1,30 @@
+.container {
+  width: 500px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+fieldset {
+  border: 2px solid #db3434;
+  padding: 20px;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+table td {
+  padding: 5px;
+}
+
+.table-info {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+button {
+  cursor: pointer;
+  padding: 5px 15px;
+}

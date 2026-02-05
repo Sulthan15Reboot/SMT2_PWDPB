@@ -1,0 +1,12 @@
+\"      :       karakter tanda petik dua
+\n      :       karakter garis baru/newline
+\r      :       karakter carriage retur
+\t      :       karakter tab
+\\      :       karakter backslash
+\$      :       karakter dollar sign
+
+dan sebagainya
+
+
+
+
